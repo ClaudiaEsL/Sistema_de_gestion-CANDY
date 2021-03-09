@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    padding:0;
+}
+.mensajeform{
+    color: red;
+    background-color:#F9E79F ;
+    padding: 1%;
+}
+.login{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+form{
+    width:60%;
+}
+.titulo{
+    width: 90%;
+    border-radius: 5px;
+    background-color: #A4AACA;
+    padding:2%;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 90%;
+    background-color:#DE5BFF!important;
+    color:white!important;
+}
+.formulario{
+    margin-top: 5%;
+    width: 50%;
+}
+.menu{
+    text-align: center;
+    font-size: 15px;
+}
+.division{
+    display:flex;
+    padding:3%;
+    background-color:#E5E5E5;
+}
+.mensaje{
+    width:50%;
+    display:flex;
+    justify-content: center;
+}
+.mensaje img{
+    width:100%;
+}
+input{
+    width:80%!important;
+    font-size: 12px;
+}
+label{
+    font-size:15px;
+    font-weight: 100;
+}
